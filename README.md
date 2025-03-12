@@ -4,7 +4,7 @@
 A machine learning model predicting Parkinson's disease based on vocal features.
 
 ## Features
-- **Input:** This datasetis composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson's disease (PD). Each column in the table is a particular voice measure, and each row corresponds one of 195 voice recording from these individuals ("name" column).
+- **Input:** This dataset composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson's disease (PD). Each column in the table is a particular voice measure, and each row corresponds one of 195 voice recording from these individuals ("name" column).
 - **Model:** Trained model (`best_model.pkl`).
 - **Normalization:** Using `normalizer.pkl`.
 - **Output:** Predicts **Healthy** or **Parkinson's Disease**.
