@@ -31,7 +31,7 @@ Follow the prompts to input vocal feature values. The model will predict either 
 ## Requirements
 - Python 3.10+
 - Libraries: `joblib`, `pandas`,`scikit-learn`,`pandas`,`numpy`
-- 
+  
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
