@@ -34,6 +34,3 @@ Follow the prompts to input vocal feature values. The model will predict either 
   
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## License
-Licensed under the MIT License.
